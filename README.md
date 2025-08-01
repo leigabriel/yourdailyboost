@@ -1,1 +1,1 @@
-https://yourdailyboost.netlify.app/
+https://yourdailymotivation.netlify.app/
